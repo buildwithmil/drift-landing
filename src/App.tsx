@@ -4,7 +4,7 @@ import FeaturesSection from './components/FeaturesSection'
 import TestimonialsSection from './components/ui/testimonial-v2'
 
 const HERO_VIDEO =
-  'https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260711_090308_1dd0cea7-f9ba-4db4-8147-c7d746061c9e.mp4'
+  'https://d8j0ntlcm91z4.cloudfront.net/user_3B3BkD5XjEYHv2WXvfhs203byWK/hf_20260710_210032_d01766da-2e26-456d-9984-66be36999790.mp4'
 
 export default function App() {
   return (
